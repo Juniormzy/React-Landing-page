@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,300;1,300&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav-ul{
+  background-color: #09cc7f;
+  padding: 10px;
+  border-radius: 5px;
+  transition: 0.5s;
+}
+.nav-li{
+  padding: 10px;
+  border-radius: 5px;
+  transition: 0.5s;
+}
+ul  {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float:right;
+    margin: 20px;
+    
+  }
+  
+  ul li {
+    display: inline;
+    text-decoration:none;
+    padding:20px;
+    margin: 10px;
+    margin-bottom: 20px;
+   
+    
+  }
+  ul li :hover{
+    background-color: #09cc7f;
+    padding: 10px;
+  }
+  ul li a{
+  color:white;
+  text-decoration:none;
+  margin-top: 20px;
+  font-size: 20px;
+  }
+  
+  .image1{
+    width: 100%;
+    
+  }
+  .logo{
+    width: 60px;
+  }
+  .navbar{
+    width: 100%;
+    position: absolute;
+  }
+  .nav-button{
+    background-color: #f15b43;
+
+    padding: 15px;
+    border-radius: 10px;
+    color: white;
+    font-size: large;
+  }
+  .header-text{
+    position:absolute;
+    top: 50%;
+    left:20%;
+    color: white;
+  
+  }
+  .header-h1{
+    font-size: 70px;
+  }
+  .header-h3{
+    font-size: 20px;
+  }
+  .header-button{
+    background-color: #09cc7f;;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    padding: 15px;
+    
+  }
+  .header-button2{
+    background-color: none;
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    margin: 20px;
+    border: 3px solid white;
+    transition: 0.5s;
+    border-radius: 10px;
+  
+  }
+  .header-button2:hover{
+    background-color: #09cc7f;;
+    color: white;
+    border: none;
+    border-radius: 10px;
+  }
+  .header-btn{
+    margin: 35px;
+  }
+  .header{
+   
+  }
+  .box{
+    background-color: #ffffff;
+    width:350px;
+    height: 470px;
+    margin: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.1);
+    position: relative;
+  }
+  .box-img{
+    position: relative;
+    width: 100px;
+   left: 30%;
+   top: 30%;
+  
+    
+  }
+  .img-box{
+    height: 50%;
+  }
+  .service{
+background-color: #f15b43;
+  }
+  .box-box{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
+  .box-text{
+    font-size: 20px;
+    margin: 10px;
+    margin-bottom: 20px;
+    position: relative;
+  }
+  .box-btn{
+    margin: 30px;
+  }
+  .cv-btn{
+    background-color: #09cc7f;
+    text-decoration: none;
+    position: relative;
+    left: 30%;
+    top: 70%;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+  }
+  .service-text h1{
+    color: white;
+    text-align: center;
+  }
+  .service-text{
+    padding: 40px;
+  }
+  .service{
+    display: none;
+  }
