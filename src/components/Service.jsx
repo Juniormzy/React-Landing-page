@@ -10,9 +10,7 @@ function service() {
                 <h1>We Are In A Mission To Help The Helpless</h1>
             </div>
             <div className='box-box'>
-            <Box image={test}  button='Learn More' text='The sea freight service has grown conside rably in recent years. We spend timetting to know your processes to.'/>
-            <Box image={test}  button='Learn More' text='The sea freight service has grown conside rably in recent years. We spend timetting to know your processes to.'/>
-            <Box image={test}  button='Learn More' text='The sea freight service has grown conside rably in recent years. We spend timetting to know your processes to.'/>
+
             </div>
         </div>
     )
